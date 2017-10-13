@@ -1,7 +1,6 @@
 {
   "name": "mongoose_skeleton",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -16,5 +15,14 @@
     "mongoose": "^4.4.6",
     "morgan": "^1.7.0",
     "request": "^2.69.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boyuanl1/Homework-MongoDB.git"
+  },
+  "bugs": {
+    "url": "https://github.com/boyuanl1/Homework-MongoDB/issues"
+  },
+  "homepage": "https://github.com/boyuanl1/Homework-MongoDB#readme",
+  "description": ""
 }
